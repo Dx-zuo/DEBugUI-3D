@@ -1,0 +1,16 @@
+PODS:
+  - DebugUI3D (0.1.0)
+
+DEPENDENCIES:
+  - DebugUI3D (from `../`)
+
+EXTERNAL SOURCES:
+  DebugUI3D:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DebugUI3D: 6f88b3ed710c5f2f942abc0aa63a9e494b38f971
+
+PODFILE CHECKSUM: b0cfcc10ad2b0f6015061e1969c3e0e818cc47d7
+
+COCOAPODS: 1.9.3

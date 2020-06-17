@@ -7,9 +7,14 @@
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
+    一个 3D 视图的 Debug 工具
+    
+![dd](https://github.com/Dx-zuo/DEBugUI-3D/blob/master/GIF/2020-06-17%2023.17.25.gif)
 ## Requirements
+todo:  先给自己挖个坑, 慢慢填
+* [ ] frame 视图
+* [ ] 支持选择 View
+* [ ] 层级视图
 
 ## Installation
 
@@ -22,7 +27,7 @@ pod 'DebugUI3D'
 
 ## Author
 
-Dx-zuo, tools-error@foxmail.com
+Dx-zuo
 
 ## License
 

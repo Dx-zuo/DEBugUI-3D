@@ -1,0 +1,6 @@
+framework module DebugUI3D {
+  umbrella header "DebugUI3D-umbrella.h"
+
+  export *
+  module * { export * }
+}

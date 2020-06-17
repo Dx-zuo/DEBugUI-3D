@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'DebugUI3D_Example' do
   pod 'DebugUI3D', :path => '../'
-
-  target 'DebugUI3D_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
-  end
 end
